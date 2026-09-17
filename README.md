@@ -9,7 +9,7 @@
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-* Claude (Anthropic) - used for help resolving Git issues while committing and pushing this lab and push rejection and stuff that shouldnt be committed.  *
+* Claude (Anthropic) - used for help resolving Git issues while committing and pushing this lab and push rejection and stuff that shouldnt be committed.  
 
 ## Verbal Collaboration
 
